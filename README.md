@@ -2,7 +2,7 @@
 
 A GUI for transcribing audio and video files using [WhisperX](https://github.com/m-bain/whisperX), with CUDA acceleration for NVIDIA RTX 4070.
 
-Updated to support the latest version of whisperx as of 4/1/2025.
+Updated to support the latest version of whisperx as of 4/1/2026.
 
 Transcripts are saved as both `.srt` and `.txt` files in a `transcripts/` folder next to the script.
 
